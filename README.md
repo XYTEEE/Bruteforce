@@ -12,3 +12,6 @@ FacebookTarget, Bruteforce attack, For educational purpose only
 **Use Strong Password(which contains standard password chars + longest as possible)
 Use 2F Authentication.
 Make location based login(+browser based).**
+
+## Explore More in Hacking ...
+https://t.me/xyteee
